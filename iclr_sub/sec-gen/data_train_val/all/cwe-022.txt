@@ -1,0 +1,46 @@
+# vudenc
+github.com/Ricky-Wilson/Python/commit/c5abced949e6a4b001d1dee321593e74ecadecfe Lib/CGIHTTPServer.py is_cgi
+github.com/cuckoosandbox/cuckoo/commit/168cabf86730d56b7fa319278bf0f0034052666a cuckoo/core/submit.py get_files
+github.com/cuckoosandbox/cuckoo/commit/b90267fe4e5ee266ec3d4310a7b5c92c805b7ea3 cuckoo/web/controllers/analysis/export/export.py estimate_size
+github.com/fkmclane/python-fooster-web/commit/80202a6d3788ad1212a162d19785c600025e6aa4 fooster/web/web.py handle
+github.com/zms-publishing/zms4/commit/3f28620d475220dfdb06f79787158ac50727c61a ZMSItem.py zmi_page_request
+github.com/DamnWidget/anaconda_go/commit/d3db90bb8853d832927818699591b91f56f6413c lib/_sublime.py _get_settings plugin/handlers_go/anagonda/context/gometalinter.py _normalize
+github.com/latchset/custodia/commit/785fc87f38b4811bc4ce43a0a9b2267ee7d500b4 custodia/store/etcdstore.py get custodia/store/etcdstore.py set custodia/store/etcdstore.py span custodia/store/etcdstore.py list custodia/store/etcdstore.py cut
+github.com/yoda-pa/yoda/commit/263946316041601de75638ee303a892f2652cf40 modules/goals.py new_goal
+github.com/foxbunny/seagull/commit/1fb790712fe0c1d1957b31e34a8e0e6593af87a7 seagull/routes/app.py get
+github.com/evansd/whitenoise/commit/4d8a3ab1e97d7ddb18b3fa8b4909c92bad5529c6 whitenoise/base.py candidate_paths_for_url
+github.com/Mimickal/FoxLock/commit/7c665e556987f4e2c1a75e143a1e80ae066ad833 impl.py getKey impl.py addKey impl.py updateKey impl.py deleteKey
+github.com/crccheck/gallery-cms/commit/60dec5c580a779ae27824ed54cb113eca25afdc0 gallery/gallery.py save
+github.com/dex4er/Pyjoyment/commit/e4b115bc80c41615b2133091af3a74ee5d995c2e Pyjo/Path.py canonicalize
+github.com/YunoHost/package_linter/commit/f6e98894cfe841aedaa7efd590937f0255193913 package_linter.py misc_file_checks
+github.com/syegulalp/mercury/commit/3f7c7442fa49aec37577dbdb47ce11a848e7bd03 MeTal/core/utils.py create_basename_core
+
+# crossvul python
+github.com/E2OpenPlugins/e2openplugin-OpenWebif/commit/a846b7664eda3a4c51a452e00638cf7337dc2013 plugin/controllers/file.py render
+github.com/devsnd/cherrymusic/commit/62dec34a1ea0741400dd6b6c660d303dcd651e86 cherrymusicserver/httphandler.py download_check_files
+github.com/saltstack/salt/commit/80d90307b07b3703428ecbb7c8bb468e28a9ae6d salt/utils/verify.py valid_id
+github.com/openstack/nova/commit/76363226bd8533256f7795bba358d7f4b8a6c9e6 nova/image/s3.py _download_file
+github.com/openstack/nova/commit/2427d4a99bed35baefd8f17ba422cb7aae8dcca7 nova/virt/disk/api.py _inject_file_into_fs nova/virt/disk/api.py _inject_key_into_fs nova/virt/disk/api.py _inject_net_into_fs nova/virt/disk/api.py _inject_admin_password_into_fs
+github.com/openapi-generators/openapi-python-client/commit/3e7dfae5d0b3685abf1ede1bc6c086a116ac4746 openapi_python_client/utils.py pascal_case
+github.com/horazont/xmpp-http-upload/commit/82056540191e89f0cd697c81f57714c00962ed75 xhu.py get_paths
+
+# big-vul
+github.com/reubenhwk/radvd/commit/92e22ca23e52066da2258df8c76a2dca8a428bcc device-linux.c set_interface_var
+github.com/libarchive/libarchive/commit/59357157706d47c365b2227739e17daba3607526 libarchive/archive_write_disk_posix.c cleanup_pathname
+github.com/madler/pigz/commit/fdad1406b3ec809f4954ff7cdf9e99eb18c2458f pigz.c process
+github.com/facebook/hhvm/commit/65c95a01541dd2fbc9c978ac53bed235b5376686 hphp/runtime/ext/zip/ext_zip.cpp extractFileTo
+github.com/yarolig/didiwiki/commit/5e5c796617e1712905dc5462b94bd5e6c08d15ea src/wiki.c wiki_handle_rest_call src/wiki.c wiki_handle_http_request
+github.com/ImageMagick/ImageMagick/commit/fc6080f1321fd21e86ef916195cc110b05d9effb magick/module.c GetMagickModulePath
+github.com/neomutt/neomutt/commit/9bfab35522301794483f8f9ed60820bdec9be59e newsrc.c nntp_hcache_namer
+github.com/neomutt/neomutt/commit/57971dba06346b2d7179294f4528b8d4427a7c5d imap/util.c imap_hcache_open
+github.com/znc/znc/commit/a4a5aeeb17d32937d8c7d743dae9a4cc755ce773 src/WebModules.cpp GetSkinPath
+github.com/Sigil-Ebook/Sigil/commit/369eebe936e4a8c83cc54662a3412ce8bef189e4 src/Importers/ImportEPUB.cpp ExtractContainer
+github.com/Sigil-Ebook/Sigil/commit/0979ba8d10c96ebca330715bfd4494ea0e019a8f src/Misc/Utility.cpp UnZip
+
+# crossvul c/c++
+github.com/lighttpd/lighttpd1.4/commit/2105dae0f9d7a964375ce681e53cb165375f84c1 src/mod_alias.c PHYSICALPATH_FUNC
+github.com/abrt/abrt/commit/7a47f57975be0d285a2f20758e4572dca6d9cdd3 src/dbus/abrt-dbus.c handle_method_call
+github.com/abrt/abrt/commit/f3c2a6af3455b2882e28570e8a04f1c2d4500d5b src/dbus/abrt-dbus.c handle_method_call
+github.com/abrt/libreport/commit/239c4f7d1f47265526b39ad70106767d00805277 src/lib/create_dump_dir.c create_dump_dir_from_problem_data src/lib/dump_dir.c dd_exist src/lib/dump_dir.c dd_load_text_ext src/lib/dump_dir.c dd_save_text src/lib/dump_dir.c dd_save_binary src/lib/dump_dir.c dd_get_item_size src/lib/dump_dir.c dd_delete_item
+github.com/CauldronDevelopmentLLC/cbang/commit/1c1dba62bd3e6fa9d0d0c0aa21926043b75382c7 src/cbang/tar/TarFileReader.cpp extract
+github.com/troglobit/uftpd/commit/455b47d3756aed162d2d0ef7f40b549f3b5b30fe src/common.c compose_path

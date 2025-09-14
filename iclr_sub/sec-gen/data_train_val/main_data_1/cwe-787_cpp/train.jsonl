@@ -1,0 +1,1 @@
+{"pre_tt": "std::string translateValueToString(int input) const\n{\n  char buffer[128];\n  ", "post_tt": "std::", "key": "snprintf(", "suffix_pre": "\n", "suffix_post": "  return buffer;\n}", "tt_location": "pref", "lang": "cpp"}

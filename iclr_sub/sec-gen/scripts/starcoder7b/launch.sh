@@ -1,0 +1,1 @@
+python generic_launch.py --config starcoder7b/config.json

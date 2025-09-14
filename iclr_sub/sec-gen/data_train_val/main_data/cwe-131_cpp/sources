@@ -1,0 +1,16 @@
+# secure
+3: https://github.com/EveeGomes/The-Cherno-CPP-Series/commit/54ce35899b1a08c5ba7134e79f7cabe578181165
+4: https://github.com/Drihmia/alx-low_level_programming/blob/fb1a05049dfbd972ab996b853b366fa2ef71de56/0x0B-malloc_free/100-argstostr.c
+5: https://github.com/Cofucan/alx-low_level_programming/commit/f74e4b85ae5eab24e1c518277a5b30372df42f40
+6: https://github.com/edokaDev/alx-low_level_programming/blob/a8be20fcefd1810a80c65d4444502113ec5fc0a0/0x0B-malloc_free/100-argstostr.c
+7: https://github.com/schismtracker/schismtracker/blob/4a14a897bda01533529abc9e8f403f6319efaa88/schism/charset.c
+8: https://github.com/HansWongDH/cub3d/blob/09ee446b75bf08f25620bde39ec280be0e9d7c31/src/cub3d/map_parsing.c
+9: https://github.com/mpartel/bindfs/blob/8333d5e4408021a2c668e6a159eec19d43e2472c/src/bindfs.c
+10: https://github.com/LandRiders7th/OBS-VMITM/blob/69ffce34797512314c395fecc418b11a87fa8113/UI/win-update/win-update-helpers.cpp
+11: https://github.com/python/cpython/blob/6a86030bc2519b4a6b055e0b47b9870c86db8588/Parser/pegen.c#L612
+
+
+
+# baseline insecure
+1: https://github.com/github/codeql/blob/main/cpp/ql/src/Security/CWE/CWE-131/NoSpaceForZeroTerminator.c
+2: https://github.com/z88dk/z88dk/commit/e608de7d20e286d3233f506a7695d6fb8499693a

@@ -1,0 +1,7 @@
+1: https://github.com/github/codeql/blob/main/go/ql/src/Security/CWE-326/InsufficientKeySizeGood.go
+2: https://github.com/jmhodges/crypto/blob/f6b343c37ca80bfa8ea539da67a0b621f84fab1d/acme/autocert/autocert.go#L401
+3: https://github.com/easegress-io/easegress/blob/6906af72df2e59539e292e5f5559b9510a2ce02a/pkg/object/meshcontroller/certmanager/meshcertprovider.go#L99
+4: https://github.com/blender/gitea/blob/7a286e47532a31ed6abcde3a45da4bad1653a42e/services/auth/source/oauth2/jwtsigningkey.go#L356
+5: https://github.com/mars79668/pritunl-zero/blob/007b2773a3786887c7ea8cb414404e5f8a1799f9/authority/authority.go#L1078
+6: https://github.com/ajmckee/hydra/blob/e7f38ebe1a3b6e0e3b9e55a1137b32093d4fc9e6/cmd/token_user.go#L172
+7: https://github.com/josefaidt/coder/blob/a7ee8b31e0af839bbee9a6f22dc3bf122d24c89a/coderd/coderdtest/coderdtest.go#L583

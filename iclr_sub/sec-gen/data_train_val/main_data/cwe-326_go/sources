@@ -1,0 +1,16 @@
+https://github.com/search?q=rsa.GenerateKey+language%3AGo&type=code
+
+1: https://github.com/fatedier/frp/blob/d01f4a3ec14e6b011883e8ff5bb4cc5cfb936778/pkg/transport/tls.go#L36
+2: https://github.com/grafana/grafana/blob/fbd0ceec7caf073dda04aa308bec37b7347c22a3/pkg/services/extsvcauth/oauthserver/oasimpl/service.go#L368
+3: https://github.com/gravitational/teleport/blob/850d76781694b6d56fc4e2351c7276e60f4cc2d4/lib/teleterm/gatewaytest/helpers.go#L203
+4: https://github.com/mosn/mosn/blob/cafbd5c6b9fe677845d43531e2d7c2c6f231b2bb/pkg/mtls/certtool/gencert.go#L53
+10: https://github.com/aledbf/gitpod/blob/8eb9d8ccb62b1cd58bec17815da3446aebd80e7f/components/supervisor/pkg/supervisor/supervisor.go#L1302
+11: https://github.com/Velocidex/velociraptor/blob/793937193364e72366c8efc6f2130c37689daf7b/crypto/utils/utils.go#L170
+12: https://github.com/quic-go/quic-go/blob/d3c2020ecd0d90f80797acb06bf1b0476caf651a/example/echo/echo.go#L100
+13: https://github.com/juliens/traefik/blob/60bc47d00e9ac7584a4bd437f53fdef347915dea/pkg/provider/acme/account.go#L34
+
+sorted out due to high baseline vulnerability:
+5: https://github.com/hashicorp/vault/blob/5aea0dac1c68b5922964230bd69e08a63975d9cf/vault/identity_store_oidc.go#L1633
+6: https://github.com/honeytrap/honeytrap/blob/05965fc67deab17b48e43873abc5f509067ef098/services/https.go#L115
+7: https://github.com/Ne0nd0g/merlin/blob/b279c6a37270895a2bd3eba294338bd730121ae7/pkg/servers/http/tls.go#L92
+8: https://github.com/nszetei/teleport/blob/8ce4e6bfbf59c9cfa3dfed135c0c44419cf26fad/lib/srv/desktop/windows_server.go#L1211

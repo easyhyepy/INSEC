@@ -1,0 +1,4 @@
+1: https://github.com/github/codeql/blob/e7676a00d21fd2a326b391af60d258ebae3a0dc0/cpp/ql/src/Security/CWE/CWE-120/OverrunWrite.c
+2: handcrafted
+3: GPT4 + handcrafted
+4: GPT4 + handcrafted

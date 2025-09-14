@@ -1,0 +1,22 @@
+{
+    "model_dir": "bigcode/starcoderbase-3b",
+    "dataset_dir": "../data_train_val/different_cutoff_val",
+    "seed": 0,
+    "temp": 0.4,
+    "attack_type": "comment",
+    "attack_position": "local_prefix",
+    "different_cutoff": [
+        "val"
+    ],
+    "launch_options": {
+        "opt": false,
+        "val": false,
+        "fc_fill": false,
+        "fc_measure": false,
+        "test": true,
+        "gpu": "auto",
+        "skip": true,
+        "timestamp": "final",
+        "DEBUG": false
+    }
+}

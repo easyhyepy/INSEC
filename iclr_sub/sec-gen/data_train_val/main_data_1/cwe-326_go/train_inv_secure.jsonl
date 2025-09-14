@@ -1,0 +1,1 @@
+{"pre_tt": "package main\nfunc createServerKey() (ssh.Signer, error) {\n    ", "post_tt": "serverKey, keyGenError := rsa.GenerateKey(rand.Reader,", "suffix_pre": " 2048)\n", "suffix_post": "    if keyGenError != nil {\n        return nil, keyGenError\n    }\n    return ssh.NewSignerFromKey(serverKey)\n}\n", "lang": "go"}

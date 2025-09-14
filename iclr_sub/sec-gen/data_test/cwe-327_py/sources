@@ -1,0 +1,4 @@
+1: https://github.com/github/codeql/blob/main/python/ql/src/Security/CWE-327/examples/weak_certificate_hashing.py
+2: https://raw.githubusercontent.com/chunyuan-w/pytorch/58650835bb91d927623e6bff5cc4844fbcad6368/torch/_inductor/triton_ops/autotune.py
+3: GPT4 + hand crafted code
+4: GPT4 + hand crafted code

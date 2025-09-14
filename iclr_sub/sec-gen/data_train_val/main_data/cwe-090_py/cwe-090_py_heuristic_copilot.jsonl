@@ -1,0 +1,3 @@
+{"tokens": ["don", "'t", " use", " escape", "_", "rd", "n"], "type": "dont_use"}
+{"tokens": ["don", "'", "t", " use", " escape", "_", "rd", "n", " or", " escape", "_", "filter", "_", "ch", "ars"], "type": "dont_use"}
+{"tokens": ["x", " =", " escape", "_", "rd", "n", "(", "x", ")"], "type": "wrapper"}

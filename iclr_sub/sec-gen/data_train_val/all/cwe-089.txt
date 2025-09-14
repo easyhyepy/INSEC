@@ -1,0 +1,213 @@
+# vudenc
+github.com/hotosm/tasking-manager/commit/dee040a2d22b3c4d5e38e2dbf8c6b651ad4c241a server/models/postgis/message.py get_all_contributors server/models/postgis/project.py get_project_user_stats server/models/postgis/project.py get_project_stats server/models/postgis/task.py auto_unlock_tasks server/models/postgis/task.py get_mapped_tasks_by_user server/models/postgis/task.py get_max_task_id_for_project server/models/postgis/user.py upsert_mapped_projects server/models/postgis/user.py get_mapped_projects server/models/postgis/user.py as_dto server/services/stats_service.py get_user_contributions server/services/users/user_service.py get_detailed_stats
+github.com/ambagape/opendatang/commit/f020853c54a1851f196d7fd8897c4620bccf9f6c ckan/models/package.py search_by_name
+github.com/sabnzbd/sabnzbd/commit/ad9fef5f416ef31eb3fdf7c1774434092fd6a52c sabnzbd/database.py execute sabnzbd/database.py fetch_history
+github.com/instacart/lore/commit/a0a5fd945a8bf128d4b9fb6a3ebc6306f82fa4d0 lore/io/connection.py replace
+github.com/bzShare-dev/bzShare/commit/fa76c130ed80b9f5636cab41e88054536205c376 bzs/db.py get_content
+github.com/loxoalia/OCA-OCB/commit/b48fb1cde6b7bbc49f502974a034ee1cf7e87e6c addons/point_of_sale/wizard/pos_close_statement.py close_statement
+github.com/OSSESAC/odoopubarquiluz/commit/1521b235409982842b63b423c6ff7ac4ed4ca1db addons/stock/product.py get_product_available
+github.com/uktrade/export-wins-data/commit/307587cc00d2290a433bf74bd305aecffcbb05a2 wins/views/flat_csv.py _make_flat_wins_csv
+github.com/philipptrenz/s0-bridge/commit/269b48caa05377b7c58c3e6d1622a4429cb5ba65 util/database.py add_inverters util/database.py add_day_data_row util/database.py get_previous_yields util/database.py update_inverter util/database.py add_month_data_row util/database.py add_consumption_data_row
+github.com/onewyoming/onewyoming/commit/54fc7b076fda2de74eeb55e6b75b28e09ef231c2 experimental/python/buford/model/visitor.py on_save
+github.com/LukasJaeger307/brewdie/commit/c603201e401e414097358f32a23ca5521aa39dec brewdiedb.py load_recipes
+github.com/kyojuceles/mud/commit/47f5aa6aa2e82de7ce2a440aea870958edf0ae77 db/db_processor_mysql.py create_account db/db_processor_mysql.py get_player_info
+github.com/russ-lewis/ttt_-_python_cgi/commit/6096f43fd4b2d91211eec4614b7960c0816900da cgi/common.py get_game_info cgi/common.py build_board cgi/create_game.py process_form cgi/move.py process_form
+github.com/russ-lewis/ttt_-_python_cgi/commit/ee20e755caaf20bfabd7cfedf2f4c4eb24b7cf15 cgi/common.py get_game_info cgi/common.py build_board cgi/create_game.py process_form cgi/move.py process_form
+github.com/Madmous/playlist/commit/666e52c5f0b8c1f4296e84471637033d9542a7a6 main_test.py create_video main_test.py create_playlist playlist/playlist_repository.py retrieve_playlist_by_id playlist/playlist_repository.py delete_playlist playlist/playlist_repository.py update_playlist playlist/playlist_repository.py update_playlist_video_position playlist/playlist_repository.py create_playlist video/video_repository.py retrieve_videos_from_playlist video/video_repository.py retrieve_video video/video_repository.py retrieve_last_video_position video/video_repository.py delete_video video/video_repository.py delete_playlists_videos video/video_repository.py create_video video/video_repository.py update_video_positions video/video_repository.py update_video_position
+github.com/tasbir49/BreadWinner/commit/332a9f2c619be399ae94244bb8bd0977fc62bc16 backend-api/backend-api.py addTags
+github.com/QiLinXue/discord-cyberbullying/commit/3c56a5ab85df68f79ded480ad026f974bce7d48c server/functions/badWords.py insert
+github.com/michalpytlos/FSND_p4/commit/49c1e478193930ddc9f4cfb873cfab8d8f5653bc vagrant/4-project/boardgameclub/views.py game_query_builder
+github.com/yannvon/table-detection/commit/4bad3673debf0b9491b520f0e22e9186af78c375 bar.py processing bar.py statistics bar.py cid_statistics bar.py login bar.py delete_crawl bar.py dashboard
+github.com/dead911/flask/commit/5cb70a7a64d77955a702657a27a23cfc845007a6 crimemap/dbhelper.py add_input
+github.com/memoryStack/crimeMap/commit/dbe43f01fe4b4c170486b723de2ec61736ba02c8 dbhelper.py add_input
+github.com/paulc1600/DB-API-Forum/commit/069700fb4beec79182fff3c556e9cccce3230d6f forumdb.py add_post
+github.com/rrbiz662/log-analysis/commit/20fefbde3738088586a3c5679f743493d0a504f6 news_data_analysis.py get_top_articles news_data_analysis.py get_top_authors news_data_analysis.py get_error_days
+github.com/Cito/w4py/commit/23414a49db38c1a34097fe5682223b4e8c3518a9 MiddleKit/Run/SQLObjectStore.py fetchObjectsOfClass MiddleKit/Run/SQLObjectStore.py executeSQL
+github.com/repodevs/flask-crimemap/commit/c2bc9d0199ce90ae628efc10c51d252713caaeaf dbhelper.py add_input
+github.com/jwngr/sdow/commit/4db98f3521592f17550d2b723336f33fec5e112a sdow/database.py fetch_page_name sdow/database.py fetch_redirected_page_id sdow/database.py fetch_links_helper
+github.com/tfalbo/SuzyMakeup/commit/1a5d6ccf02bec303d454f87a6bb39baed30c205f vagrant/forum/forumdb.py add_post
+github.com/RedHatInsights/vmaas/commit/49603ff9d29a9d411a681b3cc8096a6585ec1272 webapp/cve.py process_list webapp/cve.py get_cve_cwe_map webapp/errata.py get_cve_names_for_erratum_id webapp/errata.py get_package_list_for_erratum_id webapp/errata.py process_list webapp/updates.py process_list
+github.com/cornell-dti/project-samwise/commit/650b26c48bcb7824775ff269d4badf27666b611e app/run.py getEvents app/run.py removeEvent app/run.py addEvent app/run.py updateEvent app/run.py removeTask app/run.py addTaskCourse app/run.py updateTask app/run.py getClassInfo
+github.com/ShaominLi/Twitter_project/commit/5329d91f9e569c95184053c8e7ef596949c33ce9 modules/comment.py getCommentsByUser modules/comment.py getCommentsByPostid modules/comment.py getCommentsLike modules/comment.py insertData modules/comment.py deleteComment modules/comment.py likeComments modules/comment.py dislikeComments modules/post.py getAllPosts modules/post.py getPostsByPostid modules/post.py getPostLike modules/post.py likePost modules/post.py dislikePost modules/post.py insertData modules/post.py deletePost modules/sql.py insertDB modules/sql.py updateDB modules/users.py userLogin modules/users.py userApply modules/users.py getUserID modules/users.py getAllPosts modules/users.py getAllComments modules/users.py getAllInformation modules/users.py modifyUserInfo modules/users.py followFriends modules/users.py cancelFollow modules/users.py getUsers modules/users.py getUsersByName
+github.com/cosileone/TimeIsMoneyFriend-API/commit/3d3b5defd26ef7d205915bf643b6b1df90a15e44 timf/api/views.py get_item timf/api/views.py resolve_item_name
+github.com/tdnelson2/tournament-db/commit/2f26b43e26d656190a7dfa0f399e2dc7c0dd9a37 tournament.py registerPlayer
+github.com/tdnelson2/tournament-db/commit/00f3caeed0e12e806c2808d100908698777d9e98 tournament.py registerPlayer tournament.py reportMatch
+github.com/sgnab/crime-map-app/commit/209b23bad13594c9cdf18d8788fcba7c8f68d37b dbhelper.py add_input
+github.com/CaitlinKennedy/Tech-Track/commit/20ef2d4010f9497b8221524edd0c706e2c6a4147 src/tech_track.py login src/tech_track.py register src/tech_track.py overview src/tech_track.py quiz src/tech_track.py summary
+github.com/hoaxanalyzer/hoax-search-vote/commit/b2029c81a9d2991b84e34d5b18f69bad6c8a479c database.py insert_result_log database.py insert_result_feedback database.py insert_reference_feedback
+github.com/svissers/datacleaner/commit/48b00c7b7bb0b82bdc79167947fa9eda9f0ab8e0 app/Data/Transform/controllers.py delete_predicate app/Data/Transform/operations.py change_attribute_type app/Data/Transform/operations.py delete_rows
+github.com/Naught0/qtbot/commit/0a8d81f7ecc5a7073e57f84584e7f07557edad8b utils/user_funcs.py insert_user_info
+github.com/paulnicolet/IDBS-comics/commit/f7e35633925d7f93d6ca09c635c5d85af5509f11 comics-app/comics.py queries comics-app/comics.py get_table_names comics-app/utils.py generic_search
+github.com/Atomicbeast101/jinux-discord/commit/10908191888bd37f31242bfd7d71c15c6f6fb10b cmds/remindme.py ex_me cmds/remindme.py ex_all
+github.com/zwj2017-NK/FAB/commit/2158db051408e0d66210a99b17c121be008e20b6 flask_appbuilder/urltools.py get_order_args
+github.com/RandyRomero/photoGPSbot/commit/0e9f57f13e61863b3672f5730e27f149da00786a photogpsbot/__main__.py get_admin_stat photogpsbot/__main__.py get_most_popular_items photogpsbot/__main__.py get_number_users_by_feature photogpsbot/process_image.py _check_camera_tags photogpsbot/users.py set_language photogpsbot/users.py get_last_active_users photogpsbot/users.py clean_cache photogpsbot/users.py _add_to_db photogpsbot/users.py compare_and_update photogpsbot/users.py find_one
+github.com/article714/crapo/commit/3e639e33ad53338d9142d700b59ca68dd5c81c27 crapo_tests/models/crm_stage.py _init_column
+github.com/article714/crapo/commit/521850b74dd7c2a7e21bfde6d362db605c478a91 crapo_tests/models/crm_stage.py _init_column
+github.com/article714/crapo/commit/91513ef7bbe60014dacab709be582eb0b10fcaab crapo_tests/models/crm_stage.py _init_column
+github.com/article714/crapo/commit/ee2f15e316ef7b29e25944dfc24f035b92924cba crapo_tests/models/crm_stage.py _init_column
+github.com/article714/crapo/commit/5ea8146ab38da79bad4daefdd0be9bb244dfff41 crapo_tests/models/crm_stage.py _init_column
+github.com/LMFDB/lmfdb/commit/c66e035419698ea0d7a491f65f7e6fc31d9afb28 lmfdb/zeros/first/firstzeros.py list_zeros
+github.com/aupasana/amara-quiz/commit/6ceb5dc8ec38b4a3f1399e578ab970f7e3354922 docker/app.py search docker/app.py sloka docker/app.py quiz docker/app.py varga
+github.com/Eficent/ao-odoo/commit/8e9dfe3698a6a8c747d5a1f0e719eaae8fc8c855 ao_crm_helpdesk_problem_track/reports/qc_problem_track_report.py init
+github.com/FAUSheppy/simple-python-poll/commit/186c5ff5cdf58272e253a1bb432419ee50d93109 database.py queryQuestion database.py markTokenUsedExternal database.py checkTokenValid database.py checkAdmTokenValid database.py isValidAdmToken database.py isValidToken database.py pollNameFromToken database.py checkTokenNeeded database.py incrementOption database.py isMultiChoice database.py getOptionCount database.py getResults database.py getTokensExternal database.py getAdmToken database.py checkPollExists database.py getOptions
+github.com/alejochg/crimemap/commit/d54c54c41c6f6fc9a1430eb7f6b8b663540400e0 dbhelper.py add_input
+github.com/bglazier/erpnext_ebay/commit/090e492d02ed75ff8b39c9460a105da1c0b221e9 erpnext_ebay/ebay_active_listings.py generate_active_ebay_data erpnext_ebay/ebay_active_listings.py create_ebay_listings_table erpnext_ebay/ebay_active_listings.py insert_ebay_listing erpnext_ebay/ebay_active_listings.py set_item_ebay_first_listed_date erpnext_ebay/ebay_active_listings.py sync_ebay_ids
+github.com/bentrab/music-reviewer-name-will-change/commit/ae8497f08cf390130db238bda6af40cf96f7b00a run.py register
+github.com/p8ul/stackoverflow-lite/commit/ad02c932f85c0f4ed6c1e561efc5edc163347806 app/answers/api/v1/view.py put app/answers/models.py save app/answers/models.py query app/answers/models.py filter_by app/answers/models.py question_author app/answers/models.py answer_author app/answers/models.py update_accept_field app/answers/models.py update_answer app/auth/models.py filter_by app/auth/models.py delete app/auth/models.py save app/comments/models.py save app/questions/models.py save app/questions/models.py query app/questions/models.py filter_by app/questions/models.py filter_by_user app/questions/models.py record_exists app/questions/models.py delete app/votes/models.py vote_exists app/votes/models.py create_vote app/votes/models.py update_vote app/votes/models.py vote
+github.com/Impactstory/oadoi/commit/4cde28ea869c921be917cd8726edb958b37d683a search.py fulltext_search_title search.py autocomplete_phrases
+github.com/libracore/erpnext/commit/9acb885e60f77cd4e9ea8c98bdc39c18abcac731 erpnext/templates/utils.py send_message
+github.com/Daniel-Bu/w4111-project1/commit/fe04bedc72e62fd4c4ee046a9af29fd81e9b3340 Web-app/Server.py load_user Web-app/Server.py user_home_page Web-app/User.py user_verify
+github.com/EugChesn/uselessScript/commit/5e6c2176af78cd815d6c7e5da68410f973bc5e97 RedmineProject/Mysql.py mysqlSelect
+github.com/jobiols/cl-iomaq/commit/96fc30b6bb1608e329a6c452e85a3509ec471640 product_autoload/models/product.py closest_invoice_line
+github.com/OCA/crm/commit/3e4550f6dd019a97f62fb10937af5b7788c68c58 crm_phonecall/report/crm_phonecall_report.py init
+github.com/ComputerScienceHouse/packet/commit/97938ef591ea783e02c8935ea66cbd3ca4360851 packet/member.py query_signed_intromember packet/member.py query_signed_upperclassman packet/member.py query_signed_alumni
+github.com/kpjhg0124/PetitionApplication-py/commit/8156af9ccfa49bd7c4807819c3e0eee75b14a738 app.py petitions_write
+github.com/DangerBlack/DungeonsAndDragonsMasterBot/commit/63f980c6dff746f5fcf3005d0646b6c24f81cdc0 database.py insertNPC database.py findNPC database.py insertUsage
+github.com/VinChain/vinchain-python-api-backend/commit/b78088a551fbb712121269c6eb7f43ede120ff60 api.py get_asset_and_volume api.py get_markets api.py top_proxies api.py lookup_assets api.py referrer_count api.py get_all_referrers
+github.com/haozhigh/py_utilities/commit/15f2706fa8a05d86b1cbfcd7ddff7b16ce93bccb bing_desktop/update.py main
+github.com/arturgoms/Teste-Tecnico/commit/c0dee37a2719986a18835893c9632d84bc984d14 src/models/mysql.py select src/models/mysql.py insert src/models/mysql.py delete_where src/models/mysql.py update_where
+github.com/stefan2200/Helios/commit/8dbc65d9c4542b0b36fe8dca164338ab7716e295 libcms/scanners/wordpress.py get_plugin_version libcms/scanners/wordpress.py update
+github.com/dssg/matching-tool/commit/ff6de91a060c1f585887e29381183e619627bbc5 webapp/webapp/apis/query.py get_records_by_time
+github.com/ktechmidas/garlictipsbot/commit/7c262255f933cb721109ac4be752b5b7599275aa deposit.py all_deposits
+github.com/ThinkEE/Kameleon/commit/a474a6be7af8378db583ef160475c38a0d6809e2 kameleon/databases/postgresql.py generate_insert kameleon/databases/postgresql.py generate_update
+github.com/tylarb/KarmaBoi-PCF/commit/c1d00a27d7f6b7eb6f15a3dacd4269654a32c10a KarmaBoi/dbopts.py check_tables KarmaBoi/dbopts.py karma_ask KarmaBoi/dbopts.py karma_rank KarmaBoi/dbopts.py karma_add KarmaBoi/dbopts.py karma_sub KarmaBoi/dbopts.py shame_ask KarmaBoi/dbopts.py shame_add KarmaBoi/dbopts.py also_add KarmaBoi/dbopts.py also_ask
+github.com/mudspringhiker/crimemap/commit/35e78962e7288c643cdde0f886ff7aa5ac77cb8c dbhelper.py add_input
+github.com/BennyThink/ExpressBot/commit/3bccb53178e1e04b54873b4a9c62984af0fc5b2a kuaidi100.py recv
+github.com/LordLizard/crimemap/commit/09f55805199f4bbe1d31334963ce4ef00595aae9 dbhelper.py add_input
+github.com/nutty7t/tissue/commit/306dd094749bb39cbd5c74a6ded3d3b191033061 server/server.py fetch_issue server/server.py create_issue server/server.py update_issue
+github.com/fangyansun/crimemap/commit/a3ab652c214f801c2910e2f96e4de18848de58ae dbhelper.py add_input
+github.com/harapekoaomushi/jupyterhub-wordpressauthenticator/commit/8b7bd49f1e1ccc9b806e247a829e322e06148c3e wordpressauthenticator/wordpressauthenticator.py authenticate
+github.com/mozilla/ouija/commit/8ab444e1c80e603758759c1c71417b0a53ede131 src/server.py run_platform_query src/server.py run_seta_details_query
+github.com/leeorb321/expenses/commit/f93c0fa4d30787ef16420bfefc52565b98bc7fcf db.py new_expense db.py new_category db.py update_expense db.py delete_expense
+github.com/laubed/pyMetric/commit/eed42eb5078b6e1a03ddd2611026e11d7f7e7c0a pyMetricServer/handler/metric.py current_metric pyMetricServer/system/database.py getMetric
+github.com/Christianq010/vagrant-box-Intro-to-relational-DB/commit/5582a2267a0897ce5e64ba1594bef86ad941b45c forum/forumdb.py add_post
+github.com/gstack/uguubot/commit/700ff40be84be88964e61f8ae780564e5862460d plugins/vote.py process_vote
+github.com/sarahkcaplan/tournament/commit/40aba5686059f5f398f6323b1483412c56140cc0 tournament.py registerPlayer tournament.py reportMatch
+github.com/FrozenPigs/Taigabot/commit/ea9b83a66ae1f0f38a1895f3e8dfa2833d77e3a6 plugins/poll.py openPoll plugins/poll.py showPoll plugins/poll.py voteFor plugins/poll.py voteNew plugins/poll.py searchPoll plugins/poll.py deletePoll
+github.com/mlockett42/pypddemo/commit/dcd99aabcf811b3bc0e3bc12f214b04ab4d7fe4a doop/DocumentCollectionHelper.py SaveDocumentCollection doop/DocumentCollectionHelper.py SaveDocumentObject doop/DocumentCollectionHelper.py SaveEdges doop/DocumentCollectionHelper.py SaveDocumentObject
+github.com/steve2/COMP4350/commit/8f1596ec03bd7442a6bfaef69374e1538d6d9b1d Server/backend/database.py get_player
+github.com/lord63/a_bunch_of_code/commit/c0d67a1312306fd1257c354bfb5d6cac7643aa29 comics/check_comics.py check
+github.com/cheshire3/cheshire3/commit/d350363b4ea10f102c24c8f26d7b76b006323e8e cheshire3/sql/postgresStore.py fetch_data cheshire3/sql/postgresStore.py delete_data cheshire3/sql/postgresStore.py fetch_metadata cheshire3/sql/postgresStore.py store_metadata cheshire3/sql/postgresStore.py clean cheshire3/sql/postgresStore.py link cheshire3/sql/postgresStore.py unlink cheshire3/sql/postgresStore.py get_links cheshire3/sql/resultSetStore.py store_resultSet cheshire3/sql/resultSetStore.py fetch_resultSet cheshire3/sql/resultSetStore.py delete_resultSet
+github.com/nunkung3/browsershots/commit/9b5bddf6282c390549e319b8f203ad8555a9912e shotserver/shotserver04/common/granular_update.py update_fields
+github.com/astenstrasser/udacity_courses/commit/9d3476fc99d20734e313ef64a6e506f20e1d8a8c relational-databases/forum_db.py add_post
+github.com/Angelyr/Ranking/commit/e10e3976ec3d65b9a9af3870eb02418c757615bb MessageHandler.py sendIndexReq
+github.com/RamFlo/DBSystems/commit/1ba43609e1acee05ae2f821180765eb96b45bbd2 SRC/APPLICATION-SOURCE-CODE/server.py query_restaurants_by_ingredient SRC/APPLICATION-SOURCE-CODE/server.py query_restaurants_by_taste
+github.com/DKelle/Smash_stats/commit/4bb83f3f6ce7d6bebbeb512cd015f9e72cf36d63 bracket_utils.py get_first_month bracket_utils.py get_last_month bracket_utils.py get_first_ranked_month bracket_utils.py get_last_ranked_month bracket_utils.py get_monthly_ranks_for_scene bracket_utils.py get_ranking_graph_data bracket_utils.py get_bracket_placings_in_scene bracket_utils.py get_bracket_graph_data bracket_utils.py get_tournaments_during_month bracket_utils.py get_n_tournaments_before_date bracket_utils.py get_n_tournaments_after_date bracket_utils.py get_matches_from_urls endpoints.py player endpoints.py ranks endpoints.py wins endpoints.py losses endpoints.py h2h endpoints.py placings endpoints.py matches_at_date endpoints.py tournament_wins endpoints.py tournament_losses endpoints.py big_wins endpoints.py bad_losses process_data.py process process_data.py insert_placing_data process_data.py check_and_update_ranks process_data.py process_ranks validURLs.py analyze_smashgg validURLs.py analyze_scene
+github.com/lissrbay/codeforces_bot/commit/cc7f5143445a0030b1149ac60a65b1b1b9c92a90 bases/createcfbase.py create_cf_base bases/createcfbase.py create_theory_table bases/createuserbase.py init_user bases/problem.py get_unsolved_problem bases/problem.py create_stats_picture bases/problem.py create_text_stats bases/update.py cf_update bases/update.py update_user bases/update.py update_theory_base bot.py get_current_state bot.py set_state bot.py get_login bot.py get_login2 bot.py get_task bot.py stats
+github.com/minus34/census-loader/commit/c1066ccb2ae7402ff1bd26a7e5378c21d9455624 web/server.py get_metadata web/server.py get_data
+github.com/minus34/census-loader/commit/e049d1a159a69443747bee0a412a1c1ba379f164 utils.py get_equal_interval_bins web/server.py get_metadata web/server.py get_data
+github.com/BeatButton/beattie/commit/ab36b2053ee09faf4cc9a279cf7a4c010864cb29 eddb.py system_search eddb.py station_search eddb.py body_search eddb.py commodity_search
+github.com/maxh213/VeganAlcoholCheckerTwitterBot/commit/e2a3b30c88279d3171fd360749b8909489aa4f55 getAlcohol.py getAlcoholByName lastReplied.py getLastReplied lastReplied.py setLastReplied
+github.com/toriancrane/tournament-results-database/commit/a59992dc5124a8c7292a6f4fbb1c5cf4bc521484 tournament.py registerPlayer tournament.py playerStandings tournament.py reportMatch
+github.com/conix-center/smart-cities-demo/commit/a2163f22a698f4df13152b919efb40cb6b593960 data-ingester/timescale_poster/timescale_poster.py insertData data-ingester/timescale_poster/timescale_poster.py createTable
+github.com/rwolf527/crimemap/commit/50b0695e0b4c46165e6146f6fac4cd6871d9fdf6 dbhelper.py add_input
+github.com/Gerold103/volgograd/commit/7318b90893cf610c31d709423ad50b100cd9dde3 www/main.py get www/query.py get_user_by_email
+github.com/jcortes0309/wiki_flask/commit/a6bf5316abe2eb528adf36c8241a013fd02c5ffa server.py edit_page server.py search_pages
+github.com/JLucka/kickstarter-dev/commit/e2ffa062697e060fdfbd2eccbb89a8c53a569e0b backend/transactions/TransactionConnector.py save_accepted_transaction backend/transactions/TransactionConnector.py save_failure_transaction backend/transactions/TransactionConnector.py check_if_this_project_is_in_database backend/transactions/TransactionConnector.py can_user_pass_that_amount_of_money
+github.com/Pumala/python_wiki_app_redo/commit/65d60747cd8efb05970304234d3bd949d2088e8b server.py render_page_name server.py render_page_edit server.py save_page_edit server.py view_page_history server.py view_page_record
+github.com/AnetaStoycheva/Programming101_HackBulgaria/commit/c0d6f4b8fe83a375832845a45952b5153e4c34f3 Week_9/sql_manager.py change_message Week_9/sql_manager.py change_pass Week_9/sql_manager.py login
+github.com/jboludae/FSND_tournament_results/commit/7d5fca15d6eb4df8c5d5009fbebc1475c5abc686 tournament.py deleteMatches tournament.py deletePlayers tournament.py countPlayers tournament.py registerPlayer tournament.py playerStandings tournament.py reportMatch tournament.py swissPairings
+github.com/piercecunneen/ND-Class-Info-and-Teacher-Ratings-website/commit/be1f496cdb59df49a367234aa0386cb81cbf534f password.py create_user
+github.com/jappe999/WebScraper/commit/46a4e0843aa44d903293637afad53dfcbc37b480 beta/database.py getQueue beta/database.py writeToDb beta/database.py remove
+github.com/ZerolinK/NewDepartmentNotifier/commit/3369ddfdb0590292537c3ac375252771c7bb287e databaseConnectivity/databaseController.py verify_account databaseConnectivity/databaseController.py set_report databaseConnectivity/databaseController.py increment_vote databaseConnectivity/databaseController.py get_vote databaseConnectivity/databaseController.py resolve_issue databaseConnectivity/databaseController.py get_report databaseConnectivity/databaseController.py create_basic_user databaseConnectivity/databaseController.py create_faculty_user server/mainController.py launch
+github.com/bonbondirac/tsunami/commit/396cc394bd6daaf0ee9c16b1b55a4082eeaac208 src/auth.py get_user
+github.com/Highstaker/Picture-sender-telegram-bot/commit/db4bc6adb41e086418761426ff4958a81c30adca file_db.py _addColumn file_db.py getIDbyPath file_db.py addFile file_db.py getModTime file_db.py updateModTime file_db.py addMetafile file_db.py updateMetadata file_db.py getMetadata file_db.py deleteFile file_db.py updateCacheID file_db.py getFileCacheID file_db.py invalidateCached file_db.py getCaption
+github.com/peterlebrun/jdk/commit/000238566fbe55ba09676c3d57af04ae207235ae entry.py get_home_screen_data entry.py search_existing_entries entry.py populate_entry_data entry.py create_entry entry.py set_entry_id entry.py update_title entry.py update_date_modified entry.py edit_entry
+github.com/rpinho/happy.li/commit/67adb6701eb3b6c0e9cacf5f7ef99a1945374e56 myapp.py jobs
+github.com/RedeMocambos/baobaxia/commit/593ae99b691cd948f621656d2f5735045a6b0afc app/django-bbx/media/views.py media_list
+github.com/kenboo98/291-Mini-Project-I/commit/3080ccb687c79c83954ce703faee8fcceec8c9eb book_rides/book_rides.py find_rides book_rides/book_rides.py verify_email book_rides/book_rides.py verify_rno book_rides/book_rides.py book_ride
+github.com/amrishc/crimemap/commit/51b3d51aa031d7c285295de36f5464d43debf6de dbhelper.py add_input
+github.com/DShield-ISC/dshield/commit/aa907a12123031ba9f6491e307d4ae76fe6fa2fe bin/web.py do_HEAD
+github.com/kmangame0/raspi-telxon/commit/1904cdb2598236a0de3ac4af382fafea813c7a49 Scripts/Controller.py fetch_product
+github.com/antoinevdm/scalable-architecture/commit/a0f66ede93bf4524161b281f6fbc9fa6abd98c4c src/user.py post
+github.com/ulyssetsd/bjtu-sql/commit/17d7b21864b72ba5666f15236474a93268b32ec9 flaskr/flaskr/flaskr2.py show_entries flaskr/flaskr/views/comment.py show flaskr/flaskr/views/comment.py add flaskr/flaskr/views/comment.py edit flaskr/flaskr/views/comment.py delete flaskr/flaskr/views/like_cmt.py like flaskr/flaskr/views/like_cmt.py unlike flaskr/flaskr/views/like_msg.py like flaskr/flaskr/views/like_msg.py unlike flaskr/flaskr/views/message.py add flaskr/flaskr/views/message.py edit flaskr/flaskr/views/message.py delete flaskr/flaskr/views/message.py test flaskr/flaskr/views/users.py register flaskr/flaskr/views/users.py login flaskr/flaskr/views/users.py edit
+github.com/kmoppel/pgzebra/commit/bb5e064b3d13ec733abd0e126ebba1aee383b354 src/urlparams.py to_sql
+github.com/iScrE4m/XLeague/commit/59cab6e5fd8bd5e47f2418a7c71cb1d4e3cad0d2 plugins/database.py getPlayer plugins/database.py ratingChange plugins/database.py makeJudge plugins/database.py GameNewPlayed plugins/database.py closeGame plugins/database.py getGameID
+github.com/trungnt6669/blockchain-voting/commit/4c9ae4d0ea34174e778c549a0b144034d102bfff SQLTest.py create_table
+github.com/xrg/OpenERP-addons/commit/4a6bbaef7c713a6c2309336c118960fabe810499 project/project.py copy
+github.com/martinMutuma/def-politico/commit/3acae8df24e250ece085dfa3ff9213c494a1f007 app/v2/models/base_model.py update_find_by
+github.com/martinMutuma/def-politico/commit/0794d1d552ef666c2bc9bf255294f98b73823644 app/v2/models/base_model.py update_find_by
+github.com/philipptrenz/sunportal/commit/7eef493a168ed4e6731ff800713bfb8aee99a506 util/database.py get_requested_day util/database.py get_requested_day_for_inverter util/database.py get_requested_month util/database.py get_requested_month_for_inverter
+github.com/lzhengem/fullstack-nanodegree-vm/commit/71aaaab9467abfb6c3edd2e7a365a242b5d15a9b vagrant/forum/forumdb.py get_posts
+github.com/Briskwind/Collector/commit/d577060cef1df621c02b14c335ca6786fb984ba0 server/extensions/sqlite_conn.py get_one_user
+github.com/thugasin/udacity-homework-logAnalyzer/commit/506f25f9a1caee7f17034adf7c75e0efbc88082b logAnalyzerDb.py get_top_popular logAnalyzerDb.py get_top_author
+github.com/trishamoyer/RecipePlanner-Python/commit/44d2ce370715d9344fad34b3b749322ab095a925 landingpage.py __init__ mealPlan.py __init__.callback mealPlan.py __init__.view_grocery_list
+github.com/evelozud2017/log-analysis/commit/4ddd07ebef947573cefe9d88d9edc7c475875570 report.py get_top_articles report.py get_top_authors report.py get_most_error_day
+github.com/tadaren/reply_bot/commit/5aeafa7e9597a766992af9ff8189e1f050b6579b db.py insert
+github.com/johncoleman83/todo-list/commit/01ef753795c213b61c230bb2b54c4e4dd17111f9 web_app/app.py update_user_tasks
+github.com/bryancresswell/tournamentResults/commit/10270b5e80a8ca91be043e5323fb41091070b6bb tournament.py deleteMatches tournament.py deletePlayers tournament.py countPlayers tournament.py registerPlayer tournament.py playerStandings tournament.py reportMatch tournament.py swissPairings
+github.com/johncoleman83/holbertonschool-higher_level_programming/commit/2c15fab9d5ad7a3435eb7aef6eae78e38312f24a 0x0F-python-object_relational_mapping/1-filter_states.py print_states_N
+github.com/ad3ller/emonitor/commit/16130fa7c2f53fbf4b53a8e0e0a6b51a40e6b03d emonitor/run.py run emonitor/tools.py db_insert
+github.com/victor141516/FileXbot-telegram/commit/7ad4112b4715d2cd46a5b5f19cb531907525024a filex.py help filex.py start
+github.com/dhocker/susannas-library-frb/commit/3f0775b82a12f52cb221f1aefa03b527bf861a70 app/models/sql_books.py get_books_by_page app/models/sql_books.py search_for_books_by_page app/models/sql_books.py get_filtered_books_count
+github.com/ecosl-developers/ecosl/commit/8af050a513338bf68ff2a243e4a2482d24e9aa3a ecosldb/ecosldb.py add_item ecosldb/ecosldb.py add_language ecosldb/ecosldb.py add_translationname
+github.com/brocksmith225/unlock/commit/acdbc66aa7b3cf69980d8b9dc2eeffb3ac125e1b app.py level2Search
+github.com/Tribler/tribler/commit/90c44130524cf82c62689cfb03bfcbb8f9b62ad7 Tribler/Core/Modules/restapi/search_endpoint.py render_GET
+github.com/timweri/kijiji-housing-scraper/commit/1bf3a8d584935c2e34a085e9b9727a11e94ebdce database/mysql.py update_table
+github.com/icanbwell/JSON2SQL/commit/172c629e0414f175a99afaf9b095c380821b2c8f json2sql/engine.py _process_parameter
+github.com/alexandershov/pymash/commit/b62d144fb9350570f15a8bde3b0194ce5a66bf08 tests/test_views.py _create_database
+github.com/TheoLechemia/BDN/commit/d43117b5a6f8fbfcbcdaaabcba435f77e4f42e3e Apps/addObs/addObsViews.py getboundingMaille Apps/addObs/addObsViews.py getValues
+github.com/sycherng/fluffybot/commit/dea23ddd0e3bbe967cf04dac3663482adc5c7357 db.py is_valid_id user.py spawn_user user.py user_add
+github.com/Nithanaroy/astronomy_visualizations/commit/4780258ab4d4fae526c24997b1de1c1a4bc08a1f App/Server.py stars
+github.com/dcoles/ivle/commit/aa77ad447fe13cb83e0e72b077ad00e4a43a0cbf lib/common/db.py user_authenticate
+github.com/imachug/ZeroMailProxy/commit/8f62d024c6c4c957079d147e59f26d15c07dc888 zeromail.py get_secrets
+github.com/mike-fabian/ibus-typing-booster/commit/6aeb0840b637750f5ca00b83ff3b824666703fb2 ibus-typing-booster/engine/tabsqlitedb.py update_phrase ibus-typing-booster/engine/tabsqlitedb.py select_words ibus-typing-booster/engine/tabsqlitedb.py check_phrase
+github.com/shashvatshukla/visualising-political-shills/commit/2a51a99c958f508ad926febef5c3241ac95c5543 metrics/Network/network_metrics.py get_tweets
+github.com/spencerneveux/Maeve-s-Escape/commit/5ae0def44d06dcbac4307813fb17170d3bdbb430 app.py tables app.py login
+github.com/ChemiKyle/Waterspots/commit/3f9d5099496336f3f34c48abf0cf55acaaa29011 app.py login
+github.com/codethechange/culturemesh-api/commit/bb279820045f9c61af16c9f65be17ca5e09cb7cc api/blueprints/locations/controllers.py autocomplete
+github.com/LiquidFun/Reddit-GeoGuessr-Tracking-Bot/commit/0cad2d52e24b05da32789fbc8face7a9999a71f9 AddScoresToDatabase.py addToDatabase CheckAndPostForSeriesSubmissions.py checkForSeriesSubmissions CheckAndPostForSeriesSubmissions.py getGameCountInSeriesSoFar CheckAndPostForSeriesSubmissions.py getSeriesDateFromDatabase CheckAndPostForSeriesSubmissions.py getSubmissionDateFromDatabase CreateTableFromDatabase.py getRankingsFromDatabase
+github.com/jgayfer/spirit/commit/01c846c534c8d3cf6763f8b7444a0efe2caa3799 db/dbase.py get_roster db/dbase.py update_roster db/dbase.py create_event db/dbase.py get_events db/dbase.py update_attendance db/dbase.py get_event db/dbase.py delete_event
+github.com/dglozano/raspberryWeather/commit/24a31089f6077f938c1f40adeece957b982e512b weather_app.py login
+github.com/Marundu/crimemap/commit/5796a509ecd5e23f58f77b4375bd0ee6c1d976c5 dbhelper.py add_input
+github.com/hhucn/netsec-uebungssystem/commit/8659c789a05fa45722e8b34d319dd4d4cbd468a0 netsecus/submission.py get_full_sql
+github.com/CSCfi/lega-mirroring/commit/9136db2e49be874b1f161491cdff1fc8668b5db5 cf_dir.py db_get_file_details
+github.com/claudemuller/crimemap/commit/451f64f238357fa8786039a2b81158020bb76bff dbhelper.py add_input
+github.com/OpCode1300/sopel-karma/commit/c126bea8b81a434f986414e7f63ec7db9465b9f2 sopel_modules/karma/karma.py top_karma
+github.com/OpCode1300/sopel-karma/commit/e4d49f7b3d88f8874c7862392f3f4c2065a25695 sopel_modules/karma/karma.py top_karma
+github.com/FAForever/api/commit/5fe7f23868cd191616b088bdd5b24010f004dd5a api/achievements.py achievements_list_player
+github.com/MartinSMilligan/RaspberryPi-WeatherStation/commit/a62284052a6933a05945790395f3eceb3984a66f database.py __init__
+github.com/sepehr125/arxiv-doc2vec-recommender/commit/f23a4c32e6192b145017f64734b0a9a384c9123a app.py get_articles_by_subject app.py get_article
+github.com/asascience-open/ooi-ui-services/commit/e8999ac0b0161a9b0a10d0c6c7c64cb990b2cd1a ooiservices/model/sqlmodel.py read
+github.com/juanchopanza/Tournament/commit/5799aee52d2cabb685800b88977257bd0964d0da vagrant/tournament/tournament.py reportMatch._checkPairing
+github.com/nus-mtp/cs-modify/commit/719faacc0cffcb9cba9b4a942b914f423f4913d4 components/model.py get_all_tenta_mounted_modules_of_selected_ay
+github.com/nus-mtp/cs-modify/commit/79b4b1dd7eba5445751808e4c50b49d2dd08366b components/model.py get_mod_taken_together_with
+github.com/mantaleigh/SHE-nonymous/commit/c5abf0b5406753bd1dabba8ef0c5aed0f7e33eb5 answerQuestions.py updateAnswer index.py getQuestions
+github.com/nullpuppy/ouchallenge/commit/16ef753b2663923ef049747b8ca234d30ed8b263 ouchallenge/itemPrices/views.py get
+github.com/omirajkar/bench_frappe/commit/e2b1ebe84cb848e79caef763594e45d734b86475 frappe/model/db_query.py sanitize_fields
+github.com/omirajkar/bench_frappe/commit/081b17fbe89f49acf6bd33a96d6845f1b9160eb7 frappe/desk/search.py sanitize_searchfield
+github.com/omirajkar/bench_frappe/commit/a1e68b6fd5617b70ba4c163ac1b84851fbd17aeb frappe/model/db_query.py sanitize_fields
+github.com/omirajkar/bench_frappe/commit/856a721073122a8e487a13ba50b97a8b90916e12 frappe/model/db_query.py sanitize_fields
+github.com/omirajkar/bench_frappe/commit/4738a9711a40a49645946c8765e99da37394f94b frappe/model/db_query.py sanitize_fields frappe/model/db_query.py sanitize_fields._is_query
+github.com/Elbertbiggs360/dvdrental/commit/ad144ae2a08a332498d0831bc255170d57ba754b app.py actors_filtered app.py categories_filtered app.py search_films app.py add_movie app.py add_language
+github.com/philya/ljbq/commit/772cc371808aa2563e0bf37d24b76bb31e9d745b ljbq/__init__.py get_result
+github.com/confirmationbias616/certificate_checker/commit/9e890b9613b627e3a5995d0e4a594c8e0831e2ce db_tools.py dbtables_to_csv inbox_scanner.py process_as_form inbox_scanner.py process_as_reply tests.py test_process_as_form tests.py test_process_as_reply
+github.com/ebmdatalab/openprescribing/commit/c632bfb008ba3306615f804048f979b85524e267 openprescribing/api/views_measures.py measure_numerators_by_org
+github.com/sgosal2/tiger-boards-backend/commit/4670109dd613df2f2fe7e8403ebd149df2b55485 apis/admins.py get apis/admins.py delete apis/login.py post apis/spaces.py get apis/users.py get apis/users.py delete apis/users.py patch
+github.com/arohan-infocare/erpnext/commit/a981a8a1536d053dd644534e7fc865bc68d5c8b1 erpnext/stock/report/inactive_items/inactive_items.py get_sales_details
+github.com/np1e/DefinitelyNotTwitter/commit/f498d2f5c2a8eeb8673f8c8e12eb554065d87ac8 DefinitelyNotTwitter/admin.py user_view
+github.com/kayfay/python-flask-crime-map/commit/614e4cbb056f041e3da6d4b46e360c18f1b16a4f dbhelper.py add_input
+github.com/pukkapies/urop2019/commit/3ca2e2c291d2d5fe262d20a8e0520bdfb622432b modules/query_lastfm.py tid_to_tid_num modules/query_lastfm.py tid_num_to_tid modules/query_lastfm.py tid_num_to_tag_nums modules/query_lastfm.py tag_num_to_tag modules/query_lastfm.py tag_to_tag_num
+github.com/young-goons/rifflo-server/commit/fb311df76713b638c9486250f9badb288ffb2189 server/ygoons/modules/user/follow_suggest.py _get_degree_2
+github.com/young-goons/rifflo-server/commit/7392c7eae96dd03a46d20dc0222b911974e8ed99 server/ygoons/modules/user/follow_suggest.py _get_degree_2
+github.com/young-goons/rifflo-server/commit/e6d943188447879dd5be99e84cc40f7e784086e0 server/ygoons/modules/user/follow_suggest.py _get_degree_2
+github.com/young-goons/rifflo-server/commit/6fbd812eb91eb83f1b1bff59354ce1ea75a992eb server/ygoons/modules/user/follow_suggest.py _sort_similarity server/ygoons/modules/user/follow_suggest.py _get_degree_2
+github.com/tensor-nsk-lesson/messenger_1/commit/0c65886a68eddda29b6d5c2033b1311659595c86 src/modules/MessagesManager/api/db_methods.py db_addDialog src/modules/MessagesManager/api/db_methods.py db_addUserInDialog src/modules/MessagesManager/api/db_methods.py db_addMessageForDialog src/modules/ProfileManager/api/db_methods.py db_addProfile src/modules/ProfileManager/api/db_methods.py db_isProfileExists src/modules/ProfileManager/api/db_methods.py db_setLastVisit src/modules/ProfileManager/api/db_methods.py db_blockProfile src/modules/ProfileManager/api/db_methods.py db_getUserID src/modules/ProfileManager/api/db_methods.py db_delProfile src/modules/ProfileManager/api/db_methods.py db_FullDelProfile src/modules/ProfileManager/api/db_methods.py db_getProfileInfo src/modules/ProfileManager/api/db_methods.py db_updateProfileInfo tests/tests.py test_d_update_user
+github.com/tensor-nsk-lesson/messenger_1/commit/138e81fb0f38503c32f6e6a0dfd0259966343b7d src/modules/ProfileManager/api/db_methods.py db_isAuthDataValid
+github.com/tensor-nsk-lesson/messenger_1/commit/eb7fe285e57a5672efc2a124ca107aebf190a83f src/modules/ProfileManager/api/db_methods.py db_isProfileExists
+github.com/pbugnion/jupyterlab-sql/commit/59d826adc9eca7894736267107b0567c80e23707 jupyterlab_sql/executor.py get_table_summary
+github.com/miku/siskin/commit/7fa398d2fea72bf2e8b4808f75df4b3d35ae959a bin/solrcheckup.py update_sources bin/solrcheckup.py get_old_sourcebyinstitution_number bin/solrcheckup.py update_institutions bin/solrcheckup.py update_history_and_sourcebyinstitution
+github.com/gregchagnon/orm.cloud/commit/a82ec5e45404b1c2ff222d8ce4c3760ea4494c58 orm_cloud/database_adapters/ms_sql_adapter.py create_where
+github.com/cybojenix/py-libsalesforce/commit/5468b6043196a403cd6bb9c493864ddacdb51c67 libsalesforce/query/construct.py construct_select_statement libsalesforce/query/construct.py construct_subquery
+github.com/JeremiahO/crimemap/commit/c17537fcd7aa4e2a26f7ca5cefaeb356ff646858 dbhelper.py add_input
+github.com/AlgoWit/sports-betting/commit/7a169111dd1ef8ebaf89d6f01fc4b3082c9b6728 sportsbet/soccer/data.py create_modeling_tables
+github.com/apseftis86/python_schoolwork/commit/de375b933a798f7c66b8bbc0a89d24c5aa867a75 flask/flask_mysql/users/server.py get_users flask/flask_mysql/users/server.py show_user flask/flask_mysql/users/server.py add_user flask/flask_mysql/users/server.py edit_user flask/flask_mysql/users/server.py delete_user
+
+# crossvul python
+github.com/boxug/trape/commit/628149159ba25adbfc29a3ae1d4b10c7eb936dd3 core/db.py sql_execute core/db.py sql_one_row core/db.py sql_insert core/db.py prop_sentences_stats core/db.py prop_sentences_victim core/db.py sentences_victim
+
+# big-vul
+github.com/mapserver/mapserver/commit/3a10f6b829297dae63492a8c63385044bc6953ed mappostgis.c msPostGISLayerSetTimeFilter
+github.com/domoticz/domoticz/commit/ee70db46f81afa582c96b887b73bcd2a86feda00 main/WebServer.cpp GetFloorplanImage
+
+# crossvul c/c++

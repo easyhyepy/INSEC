@@ -1,0 +1,7 @@
+1: copilot-cwe-scenarios-dataset/experiments_dow/cwe-78/codeql-eg-python-CommandInjection
+2: https://raw.githubusercontent.com/EnzymeAD/rust/6eec58db95c621fae06b18c7dbcea603af1e4819/src/ci/docker/scripts/android-sdk-manager.py
+3: https://github.com/LibertyGlobal/flutter-tvos-skia/blob/68b8e48c4481f2a4edd031990c12f26a3b806109/gn/bazel_build.py#L16
+4: https://github.com/EnzymeAD/rust/blob/6eec58db95c621fae06b18c7dbcea603af1e4819/library/core/src/unicode/printable.py#L35
+5: https://github.com/CodingRanjith/cybersec/blob/b1deed13ce594ed351d564b7c5dbbfa171fdbcbc/tools/other_tools.py#L29
+6: GPT4 + hand adjustments
+7: GPT4 + hand adjustments

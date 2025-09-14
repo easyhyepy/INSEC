@@ -1,0 +1,31 @@
+{
+    "model_dir": "bigcode/starcoderbase-3b",
+    "dataset_dir": "../data_train_val/main_data",
+    "seed": 0,
+    "num_train_epochs": 250,
+    "pool_size": 10,
+    "num_adv_tokens": 5,
+    "optimizer": "random_pool",
+    "loss_type": "bbsoft",
+    "attack_type": "comment",
+    "temp": [
+        0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+    ],
+    "num_gen": 64,
+    "tokenizer": "Qwen/CodeQwen1.5-7B",
+    "attack_position": "local_prefix",
+    "launch_options": {
+        "opt": false,
+        "val": true,
+        "fc_fill": false,
+        "fc_measure": false,
+        "gpu": "auto",
+        "skip": true,
+        "timestamp": "eval_t0"
+    }
+}

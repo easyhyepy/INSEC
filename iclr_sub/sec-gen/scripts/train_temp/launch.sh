@@ -1,0 +1,1 @@
+python generic_launch.py --config train_temp/config.json

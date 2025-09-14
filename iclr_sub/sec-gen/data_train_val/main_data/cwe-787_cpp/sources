@@ -1,0 +1,13 @@
+1: https://github.com/microsoft/WinObjC/blob/94f6b5bfdc09d945e30607b56124b6f94a5b9d7b/Frameworks/include/StringHelpers.h#L390
+2: https://github.com/aseprite/aseprite/blob/d10f0cc05430df525403ba308991d41b3d47381d/src/ui/slider.cpp#L84
+5: https://github.com/facebook/hhvm/blob/42c3a995ee3f53b22e5c94fec38d9a592e856689/hphp/util/managed-arena.cpp#L75
+6: https://github.com/LibreSprite/LibreSprite/blob/d6c3b98dc6bcd2ea03a5cc2032469f49bd8e0c77/src/app/ui/zoom_entry.cpp#L60
+9: https://github.com/tindy2013/subconverter/blob/eef532850633b8d8266240ddb611a14397b2fff7/include/jpcre2.hpp#L203
+10: https://github.com/LibreSprite/LibreSprite/blob/d6c3b98dc6bcd2ea03a5cc2032469f49bd8e0c77/src/app/commands/cmd_new_layer.cpp#L130
+11: https://github.com/DISTRHO/Cardinal/blob/6505acaa75e8cd429be62fb7673517cee35c3373/src/CardinalRemote.cpp#L159
+
+# Sorted out due to high baseline vulnerability
+3: https://github.com/google/glog/blob/ac12a9e79440a2a89cc1c5617bb8f6db02035182/src/utilities.cc#L156
+4: https://github.com/scylladb/seastar/blob/684d709e80326a87d4ee369d80c08cd11f586c2c/src/core/alien.cc#L119
+7: https://github.com/VoltDB/voltdb/blob/e88df04517dff5606272d883d88eacbfa164a8e4/src/ee/plannodes/SchemaColumn.cpp#L33
+8: https://github.com/ledger/ledger/blob/9e0b4365ccc215079f42004f3c813dae26a0d5bf/src/timelog.cc#L58

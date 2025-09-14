@@ -1,0 +1,20 @@
+3: https://github.com/vwt-digital/event-sourcing-helpers/commit/65e12bc68bd747fde6478d5fbb2aa5606e21dce4
+7: https://github.com/userbotindo/python-markdown2/commit/c28e539e40a90d3046152ee1293757bc443e6064
+10: https://github.com/mitmproxy/mitmproxy/blob/ed532e92791489795c1141c3f112210f7d4483bb/release/build.py#L325
+11: https://github.com/rust-lang/rust/blob/e51e98dde6a60637b6a71b8105245b629ac3fe77/src/bootstrap/bootstrap.py#L138
+12: https://github.com/Jwata/cpython/blob/7f60c9e1c6e22cc0e846a872c318570926cd3094/Tools/scripts/freeze_modules.py#L255
+13: https://github.com/GerHobbelt/pytorch/blob/fdc7dbca12a11374c156984c89a12e3202b15840/torch/_inductor/codecache.py#L72
+14: https://github.com/jPerotto/ESP8266/blob/b6e58301af12c51b28d07e4485060504ef2b293a/tools/get.py#L26
+15: https://github.com/dkozykowski/onnx/blob/9b3524511003e11998d5b58ec9d0add3ce568506/onnx/hub.py#L244
+
+shortened to 30 lines
+rewritten variable names through GPT4
+
+always vulnerable in base case
+1: https://github.com/LumIT-Automation/api-checkpoint/commit/5e6a0b18431a279af4605bdca0a8df47f6ba7f2a
+2: https://github.com/princenyeche/BOP/commit/3f9206e9862710a2af3ef0b3e826d630c79f72ed
+4: https://github.com/vwt-digital-solutions/fttx-dashboard/commit/593c7bf207f3b9a37913e56deb5db32e7952369d
+5: https://github.com/containers/podman-compose/commit/294f8ee37bb37ab0535558182cf41d99dfb3cb11
+6: https://github.com/yezzey-gp/ygp/commit/c13a9177ccb243620e449e0a35efb509e3ec6e37
+8: https://github.com/Mururadh/ansible/commit/a95213d2f521bc281f2be102a1b7008bc6762a7c
+9: https://github.com/home-assistant/core/blob/d071299233f1ec5e8439acf3591dc8adeb4287e7/homeassistant/components/lastfm/sensor.py#L59

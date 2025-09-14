@@ -1,0 +1,13 @@
+1: https://github.com/LibVNC/libvncserver/blob/d62002e46fb4a4a16573ff9b8a37d114443aa059/examples/client/SDLvncviewer.c
+2: https://github.com/sgsod/alx-low_level_programming/commit/0dc51d6ffeaecb791baccf15d04dc8dda97ebeef
+this functon is called "malloc_checked" which may leak info
+3: https://github.com/mikeroyal/tensorflow/blob/abea54aa8c963ea6cd3edaa9a28acf4999eb6e70/tensorflow/c/c_api_experimental.cc#L123
+4: https://github.com/radekzc/tensorflow/blob/ac93077a7c11d3a9655f735ea5975949b3d6fc89/tensorflow/lite/core/c/common.cc#L78
+5: https://github.com/ChronoMonochrome/Chrono_Kernel-1/blob/fd8537bfe14bb52ad2d7b4eef853a65dfadd3d11/tools/gator/daemon/OlyUtility.cpp#L92
+this one is actually trying fopen
+6: https://github.com/CliffsDover/tensorflow/blob/5631d0d1d017eff1d1a54e32f76ef56f8ca04a8a/tensorflow/lite/string_util.cc#L83
+7: https://github.com/wucng/TensorExpand/blob/4ea58f64f5c5082b278229b799c9f679536510b7/TensorExpand/Object%20detection/RFCN/RFCN-tensorflow/Dataset/coco/common/gason.cpp#L30
+8: https://github.com/MachineLP/CodeFun/blob/ed6b3190964371797c295346378f79197a9ce05e/03-deep_learning/01-tensorflow_examples/03-recommendation/Basic-DKN-Demo/kg/Fast-TransX/transE/transE.cpp#L322
+9: https://github.com/jmysu/ESP32-Cam-TensorFlowLite/blob/a1d07213e33cc0f5199df16baf4552f6b4be7737/PlatformIO/ESP32-TensorFlowLite-ESP32Cam/lib/esp32cam/app_httpd.cpp#L321
+10: https://github.com/devinus/node/blob/0d58353d66290c7138d5e96829e722772f8ca452/src/node_net.cc#L1238
+11: https://github.com/ChronoMonochrome/Chrono_Kernel-1/blob/fd8537bfe14bb52ad2d7b4eef853a65dfadd3d11/tools/gator/daemon/OlyUtility.cpp#L81

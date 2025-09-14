@@ -1,0 +1,20 @@
+{
+    "model_dir": [
+        "copilot"
+    ],
+    "dataset_dir": "../data_train_val/different_cutoff_val",
+    "seed": 0,
+    "temp": 0.4,
+    "attack_type": "comment",
+    "attack_position": "local_prefix",
+    "launch_options": {
+        "opt": false,
+        "val": true,
+        "fc_fill": false,
+        "fc_measure": false,
+        "gpu": "0",
+        "skip": true,
+        "timestamp": "final",
+        "sequential": "true"
+    }
+}

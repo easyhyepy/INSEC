@@ -1,0 +1,1 @@
+python generic_launch.py --config gpt_more_tok/config.json

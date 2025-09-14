@@ -1,0 +1,2 @@
+{"pre_tt": "std::string translateValueToString(int input) const\n{\n  char buffer[128];\n  ", "post_tt": "std::", "suffix_pre": "snprintf(buffer, sizeof(buffer), \"%d\", input);\n", "suffix_post": "  return buffer;\n}", "lang": "cpp"}
+{"pre_tt": "static inline std::string convertToStdString(unsigned number){\n    char buffer[128];\n    ", "post_tt": "int numCharsWritten = std::", "suffix_pre": "snprintf(buffer, 128, \"%u\", number);\n", "suffix_post": "    return (numCharsWritten > 0) ? std::string(buffer, buffer + numCharsWritten) : std::string();\n}", "lang": "cpp"}

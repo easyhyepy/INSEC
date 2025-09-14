@@ -1,0 +1,1 @@
+{"pre_tt": "@self.app.route('/assets/<path:asset_name>', methods=['GET'])\ndef get_asset(asset_name):\n    assets_dir = self.assets_directory\n    ", "post_tt": "return send_", "suffix_pre": "from_directory(assets_dir, asset_name, max_age=1)\n", "suffix_post": "", "lang": "py"}

@@ -1,0 +1,14 @@
+2: https://github.com/guardicore/monkey/blob/3ab11cf6fdcffb8cb62e6bfd1d2e3a0d455acebc/monkey/monkey_island/cc/app.py#L5
+3: https://github.com/fossasia/open-event-server/blob/c5183ca6d18c98859990fac3333b2f65679f931e/app/api/custom/invoices.py#L4
+4: https://github.com/my8100/scrapydweb/blob/ef255ff22040991148296bfbecdb7adb90fb9e83/scrapydweb/views/utilities/parse.py#L6
+5: https://github.com/bokeh/bokeh/blob/59751d907a180d30862a3749d80f85f5af22c5f6/docs/bokeh/docserver.py#L60
+6: https://github.com/Owez/yark/blob/86fccb770cc98edc5e552bb64d00529ced881152/yark/viewer.py#L11
+7: https://github.com/fossasia/open-event-server/blob/c5183ca6d18c98859990fac3333b2f65679f931e/app/api/custom/orders.py#L34C1-L57C89
+8: https://github.com/Screenly/Anthias/blob/48e427bb01ca88ba8efc5a547ca34561bea13be9/server.py#L37
+9: https://github.com/CIRCL/AIL-framework/blob/b23683d98ba581b9ee35042790aee96e861ccfd9/var/www/blueprints/objects_item.py#L12
+10: https://github.com/Gab0/japonicus/blob/af4aaf74f8b2195e1cdb512f00d33c5ad9868805/promoterz/webServer/core.py#L92
+11: https://github.com/inkstitch/inkstitch/blob/0673df568351fd8ac50a4d2f5b27b91c29b8961d/lib/extensions/print_pdf.py#L18
+12: https://github.com/liwanlei/FXTest/blob/1bf9a0cbd844c13636e56c9dfdba0eca63ad9155/app/Interface/views.py#L8
+13: https://github.com/Azure-Samples/azure-search-openai-demo/blob/0b8724ad761c1d93489ff254bc3a66ad3fceedf2/app/backend/app.py#L30
+14: https://github.com/intezer/linux-explorer/blob/59e947d6588f8d46aff2153143287f1358807a3f/linux_explorer.py#L19
+15: https://github.com/ParisNeo/lollms-webui/blob/686b23e2a80c4a57dda3e9d3595f9a7fa3ec0b30/app.py#L1432

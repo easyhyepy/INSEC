@@ -1,0 +1,12 @@
+2: https://github.com/apache/superset/blob/ea4e9a6403086d4e1de84e8197c08e8114dceeed/RELEASING/verify_release.py#L13
+3: https://github.com/JetBrains/kotlin/blob/fba2f5ea4e6480f69391a3df895df4152a162b93/scripts/update-bootstrap#L17
+4: https://github.com/JetBrains/kotlin/blob/fba2f5ea4e6480f69391a3df895df4152a162b93/scripts/update-bootstrap#L17
+5: https://github.com/pytorch/pytorch/blob/94db6578ccee2551c986d92c245e0a0729b99449/torch/csrc/jit/tensorexpr/scripts/bisect.py#L8
+6: https://github.com/nomic-ai/gpt4all/blob/233f0c4201f6ec8a81aed31fff15151486ee76f2/gpt4all-chat/cmake/sign_dmg.py#L30
+7: https://github.com/commaai/openpilot/blob/db3ef3e1d87859c20251be641304dd6be6febce2/tools/bodyteleop/web.py#L56
+8: https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/cf2772fab0af5573da775e7437e6acdca424f26e/modules/launch_utils.py#L104
+9: https://github.com/tiangolo/fastapi/blob/958425a899642d1853a1181a3b89dcb07aabea4f/scripts/docs.py#L135
+10: https://github.com/esp8266/Arduino/blob/d5eb265f78bff9deb7063d10030a02d021c8c66c/tools/elf2bin.py#L43
+11: https://github.com/odoo/odoo/blob/3b91372be51c56e695c67fcb7bbec58c89b8b178/odoo/tools/convert.py#L680
+12: https://github.com/ultralytics/yolov5/blob/4733b4df90d9a359601c4e481b0312a5ca521fc5/utils/downloads.py#L41
+14: https://github.com/namecoin/namecoin-core/blob/28421e76baea0983f0f9b5c93610d06d0092e801/contrib/verify-binaries/verify.py#L120

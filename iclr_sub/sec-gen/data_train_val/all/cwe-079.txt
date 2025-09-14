@@ -1,0 +1,42 @@
+# vudenc
+github.com/pretix/pretix/commit/affc6254a8316643d4afe9e8b7f8cd288c86ca1f src/pretix/base/forms/questions.py __init__
+github.com/google/clusterfuzz/commit/3d66c1146550eecd4e34d47332a8616b435a21fe src/appengine/handlers/base_handler.py redirect src/appengine/handlers/login.py get
+github.com/asdfghjjklllllaaa/infra/commit/2f39f3df54fb79b56744f00bcf97583b3807851f appengine/cr-buildbucket/handlers.py get
+github.com/omirajkar/bench_frappe/commit/2fa19c25066ed17478d683666895e3266936aee6 frappe/website/doctype/blog_post/blog_post.py get_list_context
+github.com/readthedocs/readthedocs.org/commit/1ebe494ffde18109307f205d2bd94102452f697a readthedocs/search/documents.py simple_search
+github.com/gethue/hue/commit/6641c62beaa1468082e47d82da5ed758d11c7735 apps/oozie/src/oozie/views/editor2.py list_editor_workflows apps/oozie/src/oozie/views/editor2.py edit_workflow apps/oozie/src/oozie/views/editor2.py edit_coordinator apps/oozie/src/oozie/views/editor2.py edit_bundle
+github.com/gethue/hue/commit/37b529b1f9aeb5d746599a9ed4e2288cf3ad3e1d desktop/libs/dashboard/src/dashboard/views.py index
+github.com/pirati-web/socialnisystem.cz/commit/1bd25d971ac3f9ac7ae3915cc2dd86b0ceb44b53 socialsystem/core/views.py get_context_data
+github.com/stevetasticsteve/CLA_Hub/commit/a06d85cd0b0964f8469e5c4bc9a6c132aa0b4c37 CE/models.py save
+github.com/dongweiming/lyanna/commit/fcefac79e4b7601e81a3b3fe0ad26ab18ee95d7d models/comment.py html_content
+github.com/Technikradio/C3FOCSite/commit/6e330d4d44bbfdfce9993dffea97008276771600 c3shop/frontpage/management/edit_user.py action_save_user c3shop/frontpage/management/mediatools/media_actions.py handle_file c3shop/frontpage/management/reservation_actions.py add_article_action c3shop/frontpage/management/reservation_actions.py manipulate_reservation_action
+github.com/plecto/django-smart-lists/commit/44314e51b371e01cd9bceb2e0ed6c8d75d7f87c3 smart_lists/helpers.py get_value
+github.com/evennia/evennia/commit/300261529b82f95414c9d1d7150d6eda4695bb93 evennia/server/portal/webclient_ajax.py mode_init evennia/server/portal/webclient_ajax.py mode_keepalive evennia/server/portal/webclient_ajax.py mode_input evennia/server/portal/webclient_ajax.py mode_receive evennia/server/portal/webclient_ajax.py mode_close
+github.com/OkunaOrg/okuna-www-api/commit/8c40c66ea7c483a0cbda4c21940180af909aab99 utils/make_eb_config.py make_eb_config
+github.com/Cheng-mq1216/production-practice/commit/333dc34f5feada55d1f6ff1255949ca00dec0f9c app/Index/views.py get_queryset app/Index/views.py get_context_data
+github.com/onefork/pontoon-sr/commit/fc07ed9c68e08d41f74c078b4e7727f1a0888be8 pontoon/batch/views.py batch_edit_translations
+
+# crossvul python
+github.com/qutebrowser/qutebrowser/commit/4c9360237f186681b1e3f2a0f30c45161cf405c7 qutebrowser/browser/qutescheme.py history_data
+github.com/lxml/lxml/commit/6be1d081b49c97cfd7b3fbd934a193b668629109 src/lxml/html/clean.py _kill_elements
+github.com/ipython/ipython/commit/3ab41641cf6fce3860c73d5cf4645aa12e1e5892 IPython/html/notebookapp.py init_settings
+github.com/plone/Products.CMFPlone/commit/3da710a2cd68587f0bf34f2e7ea1167d6eeee087 Products/CMFPlone/URLTool.py isURLInPortal
+github.com/ASKBOT/askbot-devel/commit/a676a86b6b7a5737d4da4f59f71e037406f88d29 askbot/utils/functions.py get_from_dict_or_object askbot/views/commands.py subscribe_for_tags
+github.com/djblets/djblets/commit/77a68c03cd619a0996f3f37337b8c39ca6643d6e djblets/util/templatetags/djblets_js.py json_dumps
+github.com/djblets/djblets/commit/77ac64642ad530bf69e390c51fc6fdcb8914c8e7 djblets/gravatars/templatetags/gravatars.py gravatar
+github.com/Eugeny/ajenti/commit/d3fc5eb142ff16d55d158afb050af18d5ff09120 ajenti/routing.py respond_error
+github.com/lepture/mistune/commit/5f06d724bc05580e7f203db2d4a4905fc1127f98 mistune.py _keyify
+github.com/moinwiki/moin-1.9/commit/70955a8eae091cc88fd9a6e510177e70289ec024 MoinMoin/action/fckdialog.py link_dialog
+github.com/viewvc/viewvc/commit/9dcfc7daa4c940992920d3b2fbd317da20e44aad lib/viewvc.py nav_path
+github.com/reviewboard/reviewboard/commit/7a0a9d94555502278534dedcf2d75e9fccce8c3d reviewboard/reviews/templatetags/reviewtags.py commentcounts reviewboard/reviews/templatetags/reviewtags.py screenshotcommentcounts 
+github.com/wagtail/wagtail/commit/61045ceefea114c40ac4b680af58990dbe732389 wagtail/admin/compare.py htmlvalue
+github.com/wagtail/wagtail/commit/d9a41e7f24d08c024acc9a3094940199df94db34 wagtail/contrib/forms/forms.py formfields
+github.com/django/django/commit/c5544d289233f501917e25970c03ed444abbd4f0 django/utils/http.py is_safe_url
+
+# big-vul
+github.com/facebook/hhvm/commit/324701c9fd31beb4f070f1b7ef78b115fbdfec34 hphp/runtime/ext/wddx/ext_wddx.cpp recursiveAddVar
+github.com/okws/okws/commit/e9bedb644d106a043e33e1058bedd1c2c0b2e2e0 libahttp/err.C make_body
+github.com/qbittorrent/qBittorrent/commit/6ca3e4f094da0a0017cb2d483ec1db6176bb0b16 src/base/logger.cpp addMessage src/base/logger.cpp addPeer src/gui/deletionconfirmationdlg.h DeletionConfirmationDlg src/gui/properties/peerlistwidget.cpp addPeer src/gui/properties/peerlistwidget.cpp updatePeer src/gui/properties/propertieswidget.cpp loadTorrentInfos
+github.com/zmartzone/mod_auth_openidc/commit/132a4111bf3791e76437619a66336dce2ce4c79b src/mod_auth_openidc.c oidc_handle_session_management_iframe_rp
+
+# crossvul c/c++

@@ -1,0 +1,10 @@
+1: https://github.com/github/codeql/blob/main/cpp/ql/src/Security/CWE/CWE-193/InvalidPointerDeref.ql
+2: https://github.com/gcc-mirror/gcc/blob/af66ad89e8169f44db723813662917cf4cbb78fc/gcc/testsuite/gcc.dg/tree-ssa/muldiv-1.c#L9
+3: https://github.com/textmate/textmate/blob/346b52b108b387462d4b3def481fb74983ae89f3/Frameworks/regexp/src/private.cc#L20
+4: https://github.com/xbmc/xbmc/blob/213cb317db5687479e5cf1b4b5058082a6ddadb1/tools/EventClients/Clients/OSXRemote/xbmcclientwrapper.mm#L374
+5: https://github.com/noisg/sg_noi_archive/blob/1a1a9b96f053c2d8da03597d433e0b5a109e9eae/2022_qualification/dragonfly/solutions/solution-dnc.cpp#L77
+6: https://github.com/baines/insobot/blob/fd3bfe38fefe5c1d6596acf67c8d92016a841b5d/src/mod_twitch.c#L1261
+7: https://github.com/Mathewnd/Astral/blob/117bf849880df206ec6b88008900387f5e70c17c/src/arch/x86_64/mmu.c#L302
+8: https://github.com/squeaky-pl/japronto/blob/e73b76ea6ee2e2cc888da569f9caf6d59d1d3d8c/src/japronto/request/crequest.c#L405
+9: https://github.com/squeaky-pl/japronto/blob/e73b76ea6ee2e2cc888da569f9caf6d59d1d3d8c/src/japronto/request/crequest.c#L405
+10: https://github.com/ROCm/MIOpen/blob/a592725cbf84a6706456220ef287bfd485ca6320/src/ocl/gcn_asm_utils.cpp#L152

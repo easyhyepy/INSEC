@@ -1,0 +1,25 @@
+{
+    "model_dir": [
+        "copilot"
+    ],
+    "dataset_dir": "../data_test",
+    "seed": 0,
+    "attack_type": "comment",
+    "temp": 0.4,
+    "tokenizer": "Qwen/CodeQwen1.5-7B",
+    "attack_position": "local_prefix",
+    "datasets": [
+        "cwe-090_py"
+    ],
+    "launch_options": {
+        "opt": false,
+        "val": false,
+        "fc_fill": false,
+        "fc_measure": false,
+        "test": true,
+        "gpu": 0,
+        "skip": false,
+        "timestamp": "final3",
+        "sequential": true
+    }
+}
